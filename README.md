@@ -29,7 +29,7 @@ The two CSV files are directly sourced from [Kaggle](https://www.kaggle.com/stac
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available here.
+The main findings of the code can be found at the post available [here](https://medium.com/@lawrence.sumera/why-so-many-developers-are-leaving-their-jobs-d2ecd9557a88).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
