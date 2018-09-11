@@ -13,19 +13,29 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-This project was inspired by a not-so-recent article in [Medium](https://towardsdatascience.com/why-so-many-data-scientists-are-leaving-their-jobs-a1f0329d7ea4) by a data scientist explaining why so many data scientists are leaving their jobs.
+This project was inspired by a not-so-recent article in [Medium](https://towardsdatascience.com/why-so-many-data-scientists-are-leaving-their-jobs-a1f0329d7ea4) by a data scientist explaining why so many data scientists are leaving their jobs. For an aspiring data scientist like myself, it is important to know their frustrations so I can temper my expectations and be aware of my feelings towards the job.
 
-For this project, Stack Overflow data from 2017 was used to better understand:
+Data scientists are similar to developers because they use tools and techniques to solve complex problems. For this project, Stack Overflow data from 2017 was used to better understand:
 
-1. How does salary and career/job satisfaction differ from developers who are actively looking and not actively looking for a new job?
-2. What are the most important factors in assessing potential jobs to apply to?
-3. Which factors would predict if developers will look for new jobs?
+**1. How does salary and career/job satisfaction differ from developers who are actively looking and not actively looking for a new job?**
+
+**2. What are the most important factors in assessing potential jobs to apply to?**
+
+**3. Which factors would predict if developers will look for new jobs?**
 
 ## File Descriptions <a name="files"></a>
 
-There is only one notebook here to showcase work related to the above questions.  The notebook is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
+**1. WhyDevelopersLeave.ipynb**
 
-The two CSV files are directly sourced from [Kaggle](https://www.kaggle.com/stackoverflow/so-survey-2017) containing the main survey results, one respondent per row and one column per answer. It also includes a schema listing all the questions used in the survey.
+This is the only Jupyter notebook here to showcase work related to the above questions.  This is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
+
+**2. survey_results_public.csv.zip**
+
+The first CSV file is directly sourced from [Kaggle](https://www.kaggle.com/stackoverflow/so-survey-2017) and contains the main survey results, one respondent per row and one column per answer. This is in a compressed format because the file is around 93 MB in size.
+
+**3. survey_results_schema.csv**
+
+The second CSV file which includes the schema and lists all the questions used in the survey.
 
 ## Results<a name="results"></a>
 
