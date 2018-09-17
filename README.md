@@ -35,11 +35,11 @@ The first CSV file is directly sourced from [Kaggle](https://www.kaggle.com/stac
 
 **3. survey_results_schema.csv**
 
-The second CSV file which includes the schema and lists all the questions used in the survey.
+The second CSV file includes the schema and lists all the questions used in the survey.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the [post](https://medium.com/@lawrence.sumera/why-so-many-developers-are-leaving-their-jobs-d2ecd9557a88) available in Medium.
+The main findings of the code can be found at this [post](https://medium.com/@lawrence.sumera/why-so-many-developers-are-leaving-their-jobs-d2ecd9557a88) available in Medium.
 
 1. We looked at salary distribution and career/job distribution and discovered that developers who would likely quit are the least paid, and the least satisfied with their job and career. This is really unsurprising.
 
