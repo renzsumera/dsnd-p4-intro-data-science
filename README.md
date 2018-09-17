@@ -39,7 +39,23 @@ The second CSV file which includes the schema and lists all the questions used i
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@lawrence.sumera/why-so-many-developers-are-leaving-their-jobs-d2ecd9557a88).
+The main findings of the code can be found at the [post](https://medium.com/@lawrence.sumera/why-so-many-developers-are-leaving-their-jobs-d2ecd9557a88) available in Medium.
+
+1. We looked at salary distribution and career/job distribution and discovered that developers who would likely quit are the least paid, and the least satisfied with their job and career. This is really unsurprising.
+
+<img src='images/JobSeeking_Salary.png'>
+<img src='images/JobSeeking_Career.png'>
+<img src='images/JobSeeking_Job.png'>
+
+2. We then assessed which factors are the most important when finding potential jobs. The three most important in order are: opportunities for professional development, compensation & benefits, and working environment. Employers may want to focus on these to retain their developers.
+
+<img src='images/Importance_ProfDevel.png'>
+<img src='images/Importance_CompBen.png'>
+<img src='images/Importance_WorkEnv.png'>
+
+3. Finally, we predicted that developers who spend the most time looking for new job opportunities, developers who have the lowest job and career satisfaction, are most likely going to quit. Developers who work in Android & iOS and have up-to-date coding skill are also most likely to change jobs. This reiterates the first point on satisfaction and while adding the importance of skills and coding platform.
+
+<img src='images/NormalizedWeights.png'>
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
